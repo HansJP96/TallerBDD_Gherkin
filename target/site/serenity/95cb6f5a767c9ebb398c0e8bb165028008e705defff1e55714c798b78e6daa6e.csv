@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Consignar dinero en cuenta de ahorros","Consignar dinero","SUCCESS","2022-03-09T14:49:06.4686627-05:00[America/Bogota]","0.0","0.91"
+"Retirar dinero de cuenta de ahorros","Retirar dinero","SUCCESS","2022-03-09T14:49:06.4736658-05:00[America/Bogota]","0.0","0.65"
+"Retirar dinero de cuenta de ahorros","Retirar dinero con saldo insuficiente","SUCCESS","2022-03-09T14:49:07.183169-05:00[America/Bogota]","0.0","0.05"

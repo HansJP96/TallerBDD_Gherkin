@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="0" failures="0" name="Retirar dinero de cuenta de ahorros" skipped="0" tests="2" time="0.7" timestamp="2022-03-09 02:49:06"><testcase name="Retirar dinero"/><testcase name="Retirar dinero con saldo insuficiente"/></testsuite>
